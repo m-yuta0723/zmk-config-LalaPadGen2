@@ -107,7 +107,7 @@
 &mt LEFT_GUI ESCAPE  &mt LEFT_SHIFT TAB  &kp LEFT_ALT   &kp SPACE  &kp LANGUAGE_2  &mkp MB1    &lt 1 BACKSPACE  &lt 2 ENTER  &kp LG(Q)  &kp LG(LS(V))  &none       &lt 3 LS(LG(NUMBER_4))
                      &none               &kp LC(RIGHT)  &kp F11    &kp LC(LEFT)    &kp LC(UP)  &kp UP           &kp LEFT     &kp DOWN   &kp RIGHT      &mkp MB3
 &mkp LCLK            &mkp RCLK           &mkp MCLK                                                                                      &mkp LCLK      &mkp RCLK   &mkp MCLK
-&mkp MB4             &mkp MB5            &kp LG(TAB)    &kp LG(D)  &kp LCTRL                                    &mkp MB4     &mkp MB5   &kp LG(TAB)    &kp LG(D)   &kp LCTRL
+&mkp MB4             &mkp MB5            &kp LG(TAB)    &kp LG(D)  &mkp MB4                                     &mkp MB4     &mkp MB5   &kp LG(TAB)    &kp LG(D)   &mkp MB5
             >;
         };
 
